@@ -8,8 +8,6 @@ These are tools I made/make for the indie game Touhou 3D Dungeon. They're mostly
 - unpack_audio.py:
   - vim (for xxd)
   - Python
-  - Possibly Linux
-
 
 # TODO:
-- repacking script for dank mods
+- add support for nested directories
