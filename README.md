@@ -2,7 +2,7 @@
 These are tools I made/make for the indie game Touhou 3D Dungeon. They're mostly tested on Linux, but may also work on Windows/macOS with the right tools.
 
 # Files(to be expanded):
-```unpack_audio.py -> Basically a hex dumper and byte swapper for the data files stored in /path/to/eData/4 and 5. This might work with the other files in the other folders, but I haven't tested it yet, and is currently hardcoded(terribly) to write .wav files.```
+```unpack_audio.py -> Basically a hex dumper and byte swapper for the data files stored in /path/to/eData/. Only WAV and X files are supported at the moment.```
 
 # Prerequisites:
 - unpack_audio.py:
