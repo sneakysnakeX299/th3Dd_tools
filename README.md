@@ -11,3 +11,4 @@ These are tools I made/make for the indie game Touhou 3D Dungeon. They're mostly
 
 # TODO:
 - add support for nested directories
+- improve efficiency
